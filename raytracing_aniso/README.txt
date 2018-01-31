@@ -1,1 +1,1 @@
-Lagan法各向同性射线追踪
+rungekutta法各向异性射线追踪
